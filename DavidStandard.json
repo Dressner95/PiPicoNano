@@ -1,0 +1,19 @@
+{
+    "layout": {
+        "rows": "4",
+        "cols": "4"
+    },
+    "cuts": {
+        "type": "mousebites"
+    },
+    "fiducials": {
+        "type": "4fid"
+    },
+    "text": {
+        "type": "simple",
+        "text": "Pi Pico Nano Panel"
+    },
+    "copperfill": {
+        "type": "hatched"
+    }
+}
